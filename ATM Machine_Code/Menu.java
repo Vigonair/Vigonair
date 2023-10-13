@@ -29,9 +29,9 @@ public class Menu extends Validation
 			   data.put(869828, 1703); 	
 			   
 			   customerNames.put(770950, "Vighnesh Nair");
-			   customerNames.put(982250, "Vijay Nair");
-			   customerNames.put(992292, "Latha Nair");
-			   customerNames.put(869828, "Vipin Nair");
+			   customerNames.put(982250, "Om Bhabal");
+			   customerNames.put(992292, "Pravin Sir");
+			   customerNames.put(869828, "Tanay");
 			   
 
 			System.out.print("\n\nEnter your Customer Number : ");  
